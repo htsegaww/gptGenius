@@ -4,7 +4,6 @@ import {
   QueryClient,
   dehydrate,
 } from "@tanstack/react-query";
-import React from "react";
 
 const ChatPage = () => {
   const queryClient = new QueryClient();
